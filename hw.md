@@ -1,6 +1,18 @@
 # 1
-操作过程：
-![](https://cloud.tsinghua.edu.cn/lib/27e1e295-c8c1-4a3d-b201-ac0df2dd491e/file/b/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-10-06%20224707.png"")
+操作过程&结果：
+
+[过程1](https://cloud.tsinghua.edu.cn/smart-link/66e8308a-592e-4b64-a65c-fb042a28ab59/)
+
+[过程2](https://cloud.tsinghua.edu.cn/smart-link/a76c238b-e17a-4a9e-8431-d8638359938b/)
+
+[结果1](https://cloud.tsinghua.edu.cn/smart-link/cf602f09-52e7-4e36-9878-27d2d088976e/)
+
+[结果2](https://cloud.tsinghua.edu.cn/smart-link/22c937aa-0327-4537-92b1-36b104a6ddec/)
+
+> E value：表示在随机序列中会发现与目标序列相似的匹配的期望次数。E值越小，结果是随机产生的可能性越小，匹配更严格
+> 
+> P value：表示得到的结果的可信度。
+
 # 2
 脚本文件：[https://cloud.tsinghua.edu.cn/f/78d3c2d32807427e8c04/?dl=1](https://cloud.tsinghua.edu.cn/f/78d3c2d32807427e8c04/?dl=1)
 
