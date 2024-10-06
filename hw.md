@@ -1,5 +1,6 @@
 # 1
-
+操作过程：
+![](https://cloud.tsinghua.edu.cn/lib/27e1e295-c8c1-4a3d-b201-ac0df2dd491e/file/b/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-10-06%20224707.png"")
 # 2
 脚本文件：[https://cloud.tsinghua.edu.cn/f/78d3c2d32807427e8c04/?dl=1](https://cloud.tsinghua.edu.cn/f/78d3c2d32807427e8c04/?dl=1)
 
